@@ -1,0 +1,11 @@
+{
+  "name": "loading-screen-ng",
+  "version": "1.0.2",
+  "peerDependencies": {
+    "@angular/common": "^12.0.3",
+    "@angular/core": "^12.0.3"
+  },
+  "dependencies": {
+    "tslib": "^2.1.0"
+  }
+}
